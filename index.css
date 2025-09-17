@@ -178,7 +178,7 @@ hr {
 
     color:#363636;
     padding: 2.5rem 0rem;
-    z-index: 2;
+    z-index: 3;
     position: fixed;
     top: 0;
 }
@@ -237,7 +237,7 @@ hr {
 #navigator {
     position: fixed;
     top: 0;
-    z-index: 1;
+    z-index: 2;
     /* transform: translate(0,8%); */
     height: 0;
     width: 100vw;
